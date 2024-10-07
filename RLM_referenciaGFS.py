@@ -1,7 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-RLM para datos de cucao
-"""
+# RLM de referencia con solo fatos GFS 
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt #graficos
